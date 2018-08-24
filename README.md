@@ -4,7 +4,7 @@
 ====
 *File: otomad_helper.cs
 
-*Web: https://space.bilibili.com/89358/
+*Web: https://www.bilibili.com/read/cv392013/
 
 *输入：MIDI文件，视频\音频素材片段
 
@@ -22,6 +22,8 @@
 脚本2: 五线谱可视化
 ====
 *File: staff_visualizer.cs
+
+*Web: https://www.bilibili.com/read/cv1027442/
 
 *输入：MIDI文件，图片\视频素材片段
 
